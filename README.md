@@ -5,7 +5,7 @@ Generator Unity C# scripts with GPT for your prototype project
 
 - 📋 Generate a JSON-formatted list of required C# Unity scripts.
 - 🔍 Breakdown of each script into smaller scripts.
-- 🙌 Finally, Create C# script files.
+- 🙌 Automatically generate C# script files.
 
 ## ⚙️ Installation
 
